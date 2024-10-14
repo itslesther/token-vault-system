@@ -7,9 +7,9 @@ deposit and withdraw tokens from their personal token vault.
 
 The Solana program implements the following instructions:
 
-`initialize_vault` : Initializes a token vault for a user.
-`deposit_tokens` : Allows users to deposit tokens into their token vault.
-`withdraw_tokens` : Allows users to withdraw tokens from their token vault.
+- `initialize_vault` : Initializes a token vault for a user.
+- `deposit_tokens` : Allows users to deposit tokens into their token vault.
+- `withdraw_tokens` : Allows users to withdraw tokens from their token vault.
 
 Each Vault has its own Associated Token Account in order to store the Tokens
 
