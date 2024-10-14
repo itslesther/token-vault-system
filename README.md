@@ -23,11 +23,13 @@ Tested with:
 
 ## Installation
 
-Follow Installation Guide: https://www.anchor-lang.com/docs/installation
+- Follow Installation Guide: https://www.anchor-lang.com/docs/installation
 
 Warning: For the current environment, I faced the following issue: https://github.com/coral-xyz/anchor/issues/3126
 
 In order to solve it I implemented the following workaround: https://github.com/coral-xyz/anchor/issues/3126#issuecomment-2254245326
+
+- Run `yarn`
 
 ## Build
 
